@@ -1,0 +1,16 @@
+# Local configuration history and verification artifacts
+/configuration-backup/
+/verification/
+/src/__pycache__/
+
+# Generated Python and build files
+__pycache__/
+*.py[cod]
+/.build/
+/.venv/
+/venv/
+
+# Include the executable in this repository
+!/PS5OBSBridge.exe
+
+/PS5OBSBridge.exe

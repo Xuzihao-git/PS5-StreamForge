@@ -1,0 +1,20 @@
+[
+  {
+    "file": "x264-b35605ac.tar.gz",
+    "url": "https://codeload.github.com/mirror/x264/tar.gz/b35605ace3ddf7c1a5d67a2eb553f034aef41d55",
+    "sha256": "cd71a7515b0e9a012e1ac9b1f8415bebcaf6fc97d4db32286642ac4c0fbe24f9",
+    "downloaded": true
+  },
+  {
+    "file": "x265-4.3.tar.gz",
+    "url": "https://codeload.github.com/Multicorewareinc/x265/tar.gz/refs/tags/4.3",
+    "sha256": "fb157f809b74dabbef5002af99489fcaebb4d0073724beffdaaf2be15cbaf7ac",
+    "downloaded": true
+  },
+  {
+    "file": "libiconv-1.18.tar.gz",
+    "url": "https://ftp.gnu.org/pub/gnu/libiconv/libiconv-1.18.tar.gz",
+    "downloaded": false,
+    "error": "ReadTimeout"
+  }
+]
